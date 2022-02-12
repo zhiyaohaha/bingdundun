@@ -12,10 +12,12 @@ git-flow-plus.config
 # Editor directories and files
 .idea
 .vscode
+build
+.build
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.build
+
 
